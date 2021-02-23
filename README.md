@@ -6,5 +6,5 @@
 
 ---
 
-- Contact: development@jacksongpack.com
 - Website: [jacksongpack.com](https://jacksongpack.com)
+- Contact: development@jacksongpack.com
