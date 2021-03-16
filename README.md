@@ -1,7 +1,7 @@
 ### Jackson Pack
 
 - Front-End Developer
-- Privacy Advocate
+- Digital Privacy Advocate
 - Computer Science (B.S.) Major at University of Delaware
 
 ---
