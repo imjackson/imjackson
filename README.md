@@ -3,7 +3,7 @@
 - Software Developer
 - Applied Software Engineering Intern at [MITRE](https://www.mitre.org)
 - Digital Privacy Advocate
-- Computer Science (B.S.) Major at University of Delaware
+- Cybersecurity (B.S.) Computer Science Major at University of Delaware
 - Pronouns: he/him
 
 ---
